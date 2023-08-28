@@ -1,2 +1,2 @@
 # studentLibrary
-This code will allow the user to create unique student accounts and books. Then allows these books to be checked out by students as they would in the real world.
+This program will allow the user to create students, librarians, and administrators. Then allows students to check out or return books, librarians to create new books/remove current books from the database, and administrators to delete current students or add new students to the database.
